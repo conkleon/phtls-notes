@@ -100,6 +100,62 @@ When the user asks you to lint or audit the wiki:
 5. Keep `[[wiki-links]]` pointing to the same filenames (links resolve language-agnostically)
 6. Update `wiki/el/index.md` and append to `wiki/el/log.md` after each translation session
 
+## Reading PDF files from raw/
+
+`python` and `python3` are not available in this environment. Use Node.js with `pdfjs-dist` instead.
+
+### Setup (one-time, already done)
+
+```bash
+npm install pdfjs-dist
+```
+
+`pdfjs-dist` is installed at the repo root (`node_modules/`). Do not reinstall it.
+
+### Reading a page range
+
+```js
+node --input-type=module << 'EOF'
+import { getDocument } from 'pdfjs-dist/legacy/build/pdf.mjs';
+import { writeFileSync } from 'fs';
+
+const PDF_PATH = 'C:/Users/KNOWLEDGE/Nextcloud2/llm-wiki/raw/YOUR_FILE.pdf';
+const pdf = await (await getDocument(PDF_PATH).promise);
+console.log('Total pages:', pdf.numPages);
+
+let text = '';
+for (let i = START_PAGE; i <= END_PAGE; i++) {
+  const page = await pdf.getPage(i);
+  const content = await page.getTextContent();
+  const pageText = content.items.map(item => item.str).join(' ');
+  text += `\n--- PDF PAGE ${i} ---\n` + pageText;
+}
+
+// Write to a temp file if the output is large, then read in chunks with bash
+writeFileSync('C:/Users/KNOWLEDGE/Nextcloud2/llm-wiki/tmp_extract.txt', text);
+console.log('Written, length:', text.length);
+EOF
+```
+
+### Reading the temp file in chunks (when too large for Read tool)
+
+```bash
+head -c 15000 tmp_extract.txt        # first chunk
+sed -n '20,40p' tmp_extract.txt      # specific lines
+tail -c 8000 tmp_extract.txt         # last chunk
+```
+
+### Finding chapter page ranges
+
+1. Read PDF pages 6–10 to find the table of contents
+2. Note book-page numbers for each chapter from the TOC
+3. Check the offset: for PHTLS 10th Ed., book page N = PDF page N+27
+4. Extract the chapter's PDF page range using the script above
+
+### Cleanup
+
+Delete `tmp_extract.txt` when done. Do not commit it.
+
 ## Rules
 
 - Never modify anything in the `raw/` folder
