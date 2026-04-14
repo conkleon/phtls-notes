@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(python:*)",
+      "Read(//usr/**)",
+      "Bash(command -v python3 python py)",
+      "Read(//c/Users/KNOWLEDGE/AppData/Local/Programs/**)",
+      "Bash(ls /c/Python*)",
+      "Read(//c/Users/KNOWLEDGE/AppData/Local/Microsoft/WindowsApps/**)",
+      "Bash(/c/Users/KNOWLEDGE/AppData/Local/Microsoft/WindowsApps/python3.exe:*)",
+      "Bash(ls /c/Users/KNOWLEDGE/AppData/Local/Programs/Python/Python*/python.exe)",
+      "Bash(cmd.exe /c \"where python 2>nul\")",
+      "Bash(cmd.exe /c \"where py 2>nul\")",
+      "Bash(cmd.exe /c \"dir C:\\\\Python* /b 2>nul\")",
+      "Read(//c/ProgramData/**)",
+      "Read(//c/Users/KNOWLEDGE/**)",
+      "Bash(cmd.exe /c \"py --version\")",
+      "Bash(node -e ':*)",
+      "Bash(cd /tmp)",
+      "Bash(npm install:*)",
+      "Read(//tmp/node_modules/pdf-parse/**)",
+      "Read(//c/tmp/node_modules/**)",
+      "Bash(node extract_pdf.js)",
+      "Bash(npm list:*)",
+      "Bash(node extract_pdf2.js)",
+      "Bash(node:*)"
+    ]
+  }
+}
