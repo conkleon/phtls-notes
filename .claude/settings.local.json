@@ -24,7 +24,8 @@
       "Bash(node extract_pdf.js)",
       "Bash(npm list:*)",
       "Bash(node extract_pdf2.js)",
-      "Bash(node:*)"
+      "Bash(node:*)",
+      "Bash(powershell:*)"
     ]
   }
 }
