@@ -23,6 +23,28 @@ Append-only record of all operations.
 - `wiki/index.md` — Table of contents (created)
 - `wiki/log.md` — This file (created)
 
+## 2026-04-14 — Ingest: PHTLS Chapters 1 & 2
+
+**Source**: `raw/PHTLS Prehospital Trauma Life Support 10th Edition.pdf`
+**Scope**: Chapter 1 (PDF pp. 30–49) and Chapter 2 (PDF pp. 50–75)
+
+**Pages created**:
+- `wiki/phtls-chapter-1-history.md` — Source summary: EMS history, epidemiology, phases of trauma care, PHTLS origins
+- `wiki/phtls-chapter-2-golden-principles.md` — Source summary: principles/preferences, ethics, Golden Period, 14 Golden Principles
+- `wiki/ems-history.md` — Four eras of EMS: Ancient, Larrey, Farrington, Modern; key figures and milestones
+- `wiki/trauma-epidemiology.md` — US and global statistics on injury mortality, economic burden, age-group breakdowns
+- `wiki/phases-of-trauma-care.md` — Pre-event / event / post-event framework; trimodal distribution of trauma deaths
+- `wiki/golden-period.md` — Cowley's Golden Hour concept, Platinum 10 Minutes, scene time implications
+- `wiki/golden-principles.md` — All 14 Golden Principles with full clinical detail
+- `wiki/principles-vs-preferences.md` — Core PHTLS decision-making framework; five preference factors; critical thinking
+- `wiki/trauma-ethics.md` — Autonomy, NM, beneficence, justice; informed consent; privacy; truth telling
+- `wiki/trauma-centers.md` — ACS trauma center levels I–IV; capabilities, transport decisions, mechanism triage criteria
+
+**Pages updated**:
+- `wiki/index.md` — Added Chapters 1 & 2 source entries (above Chapter 3); added all new concept pages
+
+---
+
 ## 2026-04-14 — Greek Translation: wiki/el/
 
 **Action**: Created Greek mirror of all wiki pages in `wiki/el/`

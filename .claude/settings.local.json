@@ -25,7 +25,10 @@
       "Bash(npm list:*)",
       "Bash(node extract_pdf2.js)",
       "Bash(node:*)",
-      "Bash(powershell:*)"
+      "Bash(powershell:*)",
+      "Bash(awk 'NR>=33 && NR<=40' \"C:/Users/KNOWLEDGE/Nextcloud2/llm-wiki/chapter1_raw.txt\")",
+      "Bash(awk 'NR>=14 && NR<=25' \"C:/Users/KNOWLEDGE/Nextcloud2/llm-wiki/chapter1_raw.txt\")",
+      "Bash(awk 'NR>=25 && NR<=33' \"C:/Users/KNOWLEDGE/Nextcloud2/llm-wiki/chapter1_raw.txt\")"
     ]
   }
 }
