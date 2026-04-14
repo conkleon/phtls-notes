@@ -52,7 +52,7 @@ Transmural pressure = Intramural pressure − Extramural pressure
 - **Time**: safe for up to 150 minutes in OR; leave in place until definitive care
 - **Two tourniquets side by side** if first fails to stop bleeding
 - Mark time of application (e.g., "TK 2145")
-- Do not routinely loosen every 10–15 min — increases blood loss without benefit
+- **Do not** routinely loosen every 10–15 min — increases blood loss without benefit
 - **Recommend approved devices**: C-A-T Gen 6/7, EMT, SOFTT-W, TMT, RMT-T, SAM-XT, TPT2
 
 ### Hemostatic Agents
