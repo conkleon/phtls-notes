@@ -22,3 +22,22 @@ Append-only record of all operations.
 - `wiki/shock-management.md` — Full management algorithm, hemorrhage control, resuscitation strategy
 - `wiki/index.md` — Table of contents (created)
 - `wiki/log.md` — This file (created)
+
+## 2026-04-14 — Greek Translation: wiki/el/
+
+**Action**: Created Greek mirror of all wiki pages in `wiki/el/`
+**Trigger**: User added `wiki/el/` subfolder and requested full translation; CLAUDE.md updated to document translation workflow
+
+**Pages created**:
+- `wiki/el/shock.md`
+- `wiki/el/hemorrhagic-shock.md`
+- `wiki/el/aerobic-anaerobic-metabolism.md`
+- `wiki/el/fick-principle.md`
+- `wiki/el/neurogenic-hypotension.md`
+- `wiki/el/lethal-triad.md`
+- `wiki/el/tranexamic-acid.md`
+- `wiki/el/shock-assessment.md`
+- `wiki/el/shock-management.md`
+- `wiki/el/phtls-chapter-3-shock.md`
+- `wiki/el/index.md`
+- `wiki/el/log.md`

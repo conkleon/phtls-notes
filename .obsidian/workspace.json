@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "phtls-chapter-3-shock.md",
+                "file": "wiki/el/shock-management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "phtls-chapter-3-shock"
+              "title": "shock-management"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "phtls-chapter-3-shock.md",
+                "file": "wiki/el/shock-management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for phtls-chapter-3-shock"
+              "title": "Backlinks for shock-management"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "phtls-chapter-3-shock.md",
+                "file": "wiki/el/shock-management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from phtls-chapter-3-shock"
+              "title": "Outgoing links from shock-management"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "phtls-chapter-3-shock.md",
+                "file": "wiki/el/shock-management.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of phtls-chapter-3-shock"
+              "title": "Outline of shock-management"
             }
           }
         ]
@@ -170,23 +170,28 @@
   },
   "active": "2a2295aaa6465cb8",
   "lastOpenFiles": [
+    "wiki/el/phtls-chapter-3-shock.md",
+    "wiki/log.md.tmp.34396.1776160311292",
+    "wiki/el/log.md",
+    "wiki/el/log.md.tmp.34396.1776160305704",
+    "wiki/el/index.md",
+    "wiki/el/shock.md",
+    "wiki/el/aerobic-anaerobic-metabolism.md",
+    "wiki/phtls-chapter-3-shock.md",
+    "phtls-chapter-3-shock.md",
     "wiki/el/shock-management.md",
     "README.md",
     "wiki/el/shock-assessment.md",
     "wiki/el/tranexamic-acid.md",
     "wiki/el/fick-principle.md",
     "wiki/el/tranexamic-acid.md.tmp.34396.1776159827799",
-    "wiki/el/shock.md",
     "wiki/el/lethal-triad.md",
     "wiki/aerobic-anaerobic-metabolism.md",
     "wiki/el/neurogenic-hypotension.md",
     "wiki/el/neurogenic-hypotension.md.tmp.34396.1776159720804",
     "wiki/el/fick-principle.md.tmp.34396.1776159669095",
-    "wiki/el/aerobic-anaerobic-metabolism.md",
     "wiki/el/hemorrhagic-shock.md",
     "wiki/fick-principle.md",
-    "wiki/phtls-chapter-3-shock.md",
-    "phtls-chapter-3-shock.md",
     "shock-assessment.md",
     "CLAUDE.md",
     "wiki/log.md",
@@ -199,12 +204,6 @@
     "wiki/shock.md",
     "wiki/lethal-triad.md",
     "wiki/shock-management.md",
-    "wiki/shock-management.md.tmp.34396.1776159256623",
-    "wiki/shock-assessment.md",
-    "wiki/shock-assessment.md.tmp.34396.1776159184693",
-    "wiki/hemorrhagic-shock.md",
-    "wiki/tranexamic-acid.md",
-    "wiki/neurogenic-hypotension.md",
-    "page-name.md"
+    "wiki/shock-assessment.md"
   ]
 }
