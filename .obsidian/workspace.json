@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/el/shock-management.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shock-management"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/el/shock-management.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for shock-management"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/el/shock-management.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from shock-management"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/el/shock-management.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of shock-management"
+              "title": "Outline of README"
             }
           }
         ]
@@ -171,15 +171,17 @@
   "active": "2a2295aaa6465cb8",
   "lastOpenFiles": [
     "wiki/el/phtls-chapter-3-shock.md",
-    "wiki/log.md.tmp.34396.1776160311292",
     "wiki/el/log.md",
+    "shock-assessment.md",
+    "wiki/el/shock-management.md",
+    "README.md.tmp.34396.1776160593624",
+    "wiki/log.md.tmp.34396.1776160311292",
     "wiki/el/log.md.tmp.34396.1776160305704",
     "wiki/el/index.md",
     "wiki/el/shock.md",
     "wiki/el/aerobic-anaerobic-metabolism.md",
     "wiki/phtls-chapter-3-shock.md",
     "phtls-chapter-3-shock.md",
-    "wiki/el/shock-management.md",
     "README.md",
     "wiki/el/shock-assessment.md",
     "wiki/el/tranexamic-acid.md",
@@ -192,7 +194,6 @@
     "wiki/el/fick-principle.md.tmp.34396.1776159669095",
     "wiki/el/hemorrhagic-shock.md",
     "wiki/fick-principle.md",
-    "shock-assessment.md",
     "CLAUDE.md",
     "wiki/log.md",
     "CLAUDE.md.tmp.34396.1776159443781",
@@ -200,7 +201,6 @@
     "wiki/el",
     "wiki/log.md.tmp.34396.1776159301448",
     "wiki/index.md",
-    "wiki/phtls-chapter-3-shock.md.tmp.34396.1776159285868",
     "wiki/shock.md",
     "wiki/lethal-triad.md",
     "wiki/shock-management.md",
