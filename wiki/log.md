@@ -45,6 +45,30 @@ Append-only record of all operations.
 
 ---
 
+## 2026-04-16 — Ingest: PHTLS Chapter 4
+
+**Source**: `raw/PHTLS Prehospital Trauma Life Support 10th Edition.pdf`
+**Scope**: Chapter 4 — The Physics of Trauma (PDF pages 130–174, book pages 103–147)
+
+**Pages created**:
+- `wiki/phtls-chapter-4-physics.md` — Source summary: chapter objectives, topic map, key quotes, critical numbers
+- `wiki/kinematics.md` — KE formula, Newton's laws, stopping distance, three-collision model, two frontal-impact paths, cavitation, tissue density
+- `wiki/mvcs-blunt-trauma.md` — Five MVC types, frontal impact paths, restraint systems, motorcycle crashes, pedestrian injuries (adult/child), falls, regional blunt trauma effects
+- `wiki/penetrating-trauma.md` — Penetrating trauma physics, weapon energy tiers, profile/tumble/fragmentation, cavitation in projectiles, shotgun wound categories
+- `wiki/blast-injuries.md` — Explosion physics, five blast injury categories (primary–quinary), enclosed vs. open-air, clinical priorities
+
+**Pages updated**:
+- `wiki/index.md` — Added Chapter 4 source entry; added "Physics and Kinematics" concept section with four new pages
+
+**Greek translations created**:
+- `wiki/el/kinematics.md`
+- `wiki/el/mvcs-blunt-trauma.md`
+- `wiki/el/penetrating-trauma.md`
+- `wiki/el/blast-injuries.md`
+- `wiki/el/phtls-chapter-4-physics.md`
+
+---
+
 ## 2026-04-14 — Greek Translation: wiki/el/
 
 **Action**: Created Greek mirror of all wiki pages in `wiki/el/`

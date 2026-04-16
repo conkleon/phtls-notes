@@ -6,11 +6,12 @@ Personal knowledge base from *Prehospital Trauma Life Support (PHTLS) 10th Editi
 
 ## PHTLS Chapters
 
-| Chapter | Topic | English | Ελληνικά |
-|---------|-------|---------|----------|
-| Chapter 1 | PHTLS: Past, Present, and Future | [Summary](wiki/phtls-chapter-1-history.md) | [Περίληψη](wiki/el/phtls-chapter-1-history.md) |
+| Chapter   | Topic                                                 | English                                              | Ελληνικά                                                 |
+| --------- | ----------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------------- |
+| Chapter 1 | PHTLS: Past, Present, and Future                      | [Summary](wiki/phtls-chapter-1-history.md)           | [Περίληψη](wiki/el/phtls-chapter-1-history.md)           |
 | Chapter 2 | Golden Principles, Preferences, and Critical Thinking | [Summary](wiki/phtls-chapter-2-golden-principles.md) | [Περίληψη](wiki/el/phtls-chapter-2-golden-principles.md) |
-| Chapter 3 | Shock: Pathophysiology of Life and Death | [Summary](wiki/phtls-chapter-3-shock.md) | [Περίληψη](wiki/el/phtls-chapter-3-shock.md) |
+| Chapter 3 | Shock: Pathophysiology of Life and Death              | [Summary](wiki/phtls-chapter-3-shock.md)             | [Περίληψη](wiki/el/phtls-chapter-3-shock.md)             |
+| Chapter 4 | The Physics of Trauma                                 | [Summary](wiki/phtls-chapter-4-physics.md)           | [Περίληψη](wiki/el/phtls-chapter-4-physics.md)           |
 
 ---
 
@@ -42,6 +43,17 @@ Personal knowledge base from *Prehospital Trauma Life Support (PHTLS) 10th Editi
 | Tranexamic Acid (TXA) | [tranexamic-acid.md](wiki/tranexamic-acid.md) | [tranexamic-acid.md](wiki/el/tranexamic-acid.md) |
 | Shock Assessment (XABCDE / MARCH) | [shock-assessment.md](wiki/shock-assessment.md) | [shock-assessment.md](wiki/el/shock-assessment.md) |
 | Shock Management | [shock-management.md](wiki/shock-management.md) | [shock-management.md](wiki/el/shock-management.md) |
+
+---
+
+## Chapter 4 — Concept Pages
+
+| Concept | English | Ελληνικά |
+|---------|---------|----------|
+| Kinematics (KE, Newton's laws, cavitation, three collisions) | [kinematics.md](wiki/kinematics.md) | [kinematics.md](wiki/el/kinematics.md) |
+| MVCs and Blunt Trauma (impact types, restraints, motorcycle, pedestrian, falls) | [mvcs-blunt-trauma.md](wiki/mvcs-blunt-trauma.md) | [mvcs-blunt-trauma.md](wiki/el/mvcs-blunt-trauma.md) |
+| Penetrating Trauma (weapon tiers, tumble, fragmentation, shotgun wounds) | [penetrating-trauma.md](wiki/penetrating-trauma.md) | [penetrating-trauma.md](wiki/el/penetrating-trauma.md) |
+| Blast Injuries (primary–quinary categories) | [blast-injuries.md](wiki/blast-injuries.md) | [blast-injuries.md](wiki/el/blast-injuries.md) |
 
 ---
 

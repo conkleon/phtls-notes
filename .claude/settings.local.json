@@ -28,7 +28,9 @@
       "Bash(powershell:*)",
       "Bash(awk 'NR>=33 && NR<=40' \"C:/Users/KNOWLEDGE/Nextcloud2/llm-wiki/chapter1_raw.txt\")",
       "Bash(awk 'NR>=14 && NR<=25' \"C:/Users/KNOWLEDGE/Nextcloud2/llm-wiki/chapter1_raw.txt\")",
-      "Bash(awk 'NR>=25 && NR<=33' \"C:/Users/KNOWLEDGE/Nextcloud2/llm-wiki/chapter1_raw.txt\")"
+      "Bash(awk 'NR>=25 && NR<=33' \"C:/Users/KNOWLEDGE/Nextcloud2/llm-wiki/chapter1_raw.txt\")",
+      "Bash(sed -c 20000p C:/Users/KNOWLEDGE/Nextcloud2/llm-wiki/tmp_extract.txt)",
+      "Bash(dd if=C:/Users/KNOWLEDGE/Nextcloud2/llm-wiki/tmp_extract.txt bs=1 skip=20000 count=25000)"
     ]
   }
 }

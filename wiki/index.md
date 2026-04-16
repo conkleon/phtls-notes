@@ -7,6 +7,7 @@
 | PHTLS 10th Ed. — Chapter 1 | [[phtls-chapter-1-history]] |
 | PHTLS 10th Ed. — Chapter 2 | [[phtls-chapter-2-golden-principles]] |
 | PHTLS 10th Ed. — Chapter 3 | [[phtls-chapter-3-shock]] |
+| PHTLS 10th Ed. — Chapter 4 | [[phtls-chapter-4-physics]] |
 
 ---
 
@@ -42,6 +43,15 @@
 | [[lethal-triad]] | Hypothermia + coagulopathy + acidosis; self-reinforcing death spiral |
 | [[tranexamic-acid]] | Antifibrinolytic; mechanism, dosing, indication window, evidence base |
 
+### Physics and Kinematics
+
+| Page | Description |
+|------|-------------|
+| [[kinematics]] | KE formula, Newton's laws, stopping distance, cavitation, three-collision model, blunt vs. penetrating |
+| [[mvcs-blunt-trauma]] | MVC types (frontal/lateral/rear/rotational/rollover), restraint systems, motorcycle crashes, pedestrian injuries, falls, regional blunt trauma effects |
+| [[penetrating-trauma]] | Penetrating trauma physics, weapon energy tiers, profile/tumble/fragmentation, cavitation in projectiles, shotgun wound categories |
+| [[blast-injuries]] | Explosion physics, five blast injury categories (primary–quinary), enclosed vs. open-air, assessment priorities |
+
 ### Assessment and Management
 
 | Page | Description |
@@ -56,3 +66,4 @@
 | [[phtls-chapter-1-history]] | PHTLS 10th Ed. Chapter 1 — EMS history, epidemiology, three phases of trauma care, PHTLS program origins |
 | [[phtls-chapter-2-golden-principles]] | PHTLS 10th Ed. Chapter 2 — principles vs. preferences, ethics, Golden Period, 14 Golden Principles |
 | [[phtls-chapter-3-shock]] | PHTLS 10th Ed. Chapter 3 — full topic map, scenario, key quotes, objectives |
+| [[phtls-chapter-4-physics]] | PHTLS 10th Ed. Chapter 4 — kinematics framework, blunt/penetrating/blast physics, critical numbers |
